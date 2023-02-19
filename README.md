@@ -15,7 +15,7 @@
 ## Descrição do projeto
 
 
-Projeto desenvolvido para fins de estudos do Framework Robot através da semana de Robot sem complicação da escola Chornos.
+Projeto desenvolvido para fins de estudos do Framework Robot através da semana de Robot sem complicação da escola Chronos.
 
 
 ----
